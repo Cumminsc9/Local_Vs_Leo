@@ -7,7 +7,7 @@ import urllib.request
 import bs4
 from bs4 import BeautifulSoup
 
-# Please add your own path, and ensure the 'DIR' names match your folder inner folder structure!!
+# Please add your own path, and ensure the 'DIR' names match your inner folder structure directory names!!
 DIRECTORY = 'C:\\Users\\Tom\\Music\\Cover songs\\'
 
 # URLS to Dropbox removed. Please add your own!!
